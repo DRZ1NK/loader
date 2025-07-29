@@ -11,4 +11,6 @@ elseif gameId == 86363491117206 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/Dahood.lua"))()
 elseif gameId == 114460042966606 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/SAK.lua"))()
+elseif gameId == 3593495794 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/slayer.lua"))()
 end

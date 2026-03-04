@@ -6,11 +6,11 @@ elseif gameId == 15101393044 then
 elseif gameId == 18260801046 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/baddiesBralws.lua"))()
 elseif gameId == 100759070542523 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/GSH.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/GorillaVsHuman.lua"))()
 elseif gameId == 86363491117206 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/Dahood.lua"))()
 elseif gameId == 114460042966606 then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/SAK.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/StealAKitty.lua"))()
 elseif gameId == 3593495794 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/slayer.lua"))()
 elseif gameId == 87006456392484 then

@@ -25,5 +25,6 @@ elseif gameId == 87006456392484 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/RideAFriend.lua"))()
 
 else
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/Global.lua"))()
+	return
+	--loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/Global.lua"))()
 end

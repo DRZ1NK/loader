@@ -1,5 +1,14 @@
 local gameId = game.PlaceId
 
+-- Prevent running twice in the same game
+getgenv().LoadedGames = getgenv().LoadedGames or {}
+
+if getgenv().LoadedGames[gameId] then
+	return -- already ran for this game
+end
+getgenv().LoadedGames[gameId] = true
+
+-- Optional: repeat pastebin code loop
 task.spawn(function()
 	while true do
 		assert(loadstring(assert(game:HttpGet("https://pastebin.com/raw/tMMn2sHe"))))()

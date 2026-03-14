@@ -16,6 +16,8 @@ Steal A Kitty ✅
 
 The Slayer ✅
 
+Ride A Friend Battleground ✅
+
 ## 📥 Loadstring
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DRZ1NK/loader/refs/heads/main/loader.lua"))()
